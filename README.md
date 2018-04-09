@@ -5,4 +5,4 @@
 "Я" - не специфическое слово, которое имеет точный перевод на другие языки.
 ### Тоска
 
-Варианты перевода:  got really depressed, emptiness and sadness,  anguish(4),  ennui,  melancholy, yearning(3),  heartache(2), Toska (серьезно!), longing, dejection, (не перевели, просто опустили), ... (посмотрела 10 докуметов).
+Варианты перевода:  got really depressed, emptiness and sadness,  anguish(4),  ennui,  melancholy(2), yearning(4),  heartache(2), Toska (серьезно!), longing, dejection, (не перевели, просто опустили), nostalgia,  so homesick I could die, how sad,  ached,  pining, dreary, 
