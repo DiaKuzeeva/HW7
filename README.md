@@ -11,15 +11,15 @@
 
 1) got really depressed, insufferable depression, depression
 
-2)emptiness and sadness,  sadness
+2) emptiness and sadness,  sadness
 
 3) anguish(5)
 
-4)ennui
+4) ennui
 
 5) melancholy(2)
 
-6)yearning(6)
+6) yearning(6)
 
 7) heartache(2)
 
@@ -27,23 +27,23 @@
 
 9) longing
 
-10)  dejection
+10) dejection
 
-11)nostalgia
+11) nostalgia
 
-12)so homesick I could die
+12) so homesick I could die
 
-13)how sad
+13) how sad
 
-14)ached
+14) ached
 
 15) pining
 
-16)dreary
+16) dreary
 
 17) severe pang
 
-18)  physical disgust
+18) physical disgust
 
 19) misery(2),   cry of misery
 
