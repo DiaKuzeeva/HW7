@@ -9,9 +9,9 @@
 
 ######Списки моделей перевода:
 
-1) got really depressed
+1) got really depressed, insufferable depression, depression
 
-2)emptiness and sadness
+2)emptiness and sadness,  sadness
 
 3) anguish(5)
 
@@ -41,6 +41,10 @@
 
 16)dreary
 
+17) severe pang
 
+18)  physical disgust
 
+19) misery(2),   cry of misery
 
+20) I am bored
