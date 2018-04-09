@@ -5,6 +5,7 @@
 "Я" - не специфическое слово, которое имеет точный перевод на другие языки.
 ### Тоска
 
+![http://search1.ruscorpora.ru/search.xml?mycorp=((lang%253A%2522rus%2522)%2520%2526%2526%2520(lang_trans%253A%2522eng%2522)%2520%2526%2526%2520metas%253A%2522header%2522%2520%2526%2520(!*))&mysent=&mysize=6591353&mysentsize=409907&mydocsize=149&dpp=&spp=&spd=&text=lexform&mode=para&sort=gr_tagging&env=alpha&req=%F2%EE%F1%EA%E0&p=0]
 Варианты перевода:  got really depressed, emptiness and sadness,  anguish(5),  ennui,  melancholy(2), yearning(6),  heartache(2), Toska (серьезно!), longing, dejection, (не перевели, просто опустили), nostalgia,  so homesick I could die, how sad,  ached,  pining, dreary,  sadness,  severe pang, physical disgust, misery(2), cry of misery, I am bored, insufferable depression, depression,... .
 
 ###### Списки моделей перевода:
